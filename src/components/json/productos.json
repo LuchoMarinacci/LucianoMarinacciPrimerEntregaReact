@@ -1,0 +1,10 @@
+ [
+    {"id":1, "nombre":"Proteina Chocolate", "precio": 15000, "stock":10, "imagen":"images/proteina_producto.webp" },
+
+    {"id":2, "nombre":"Creatina Micronizada", "precio":8000, "stock":10, "imagen": "images/creatina_producto.jpg"},
+
+    {"id":3, "nombre":"Pre-Workout", "precio":4500, "stock":10, "imagen": "images/preworkout_producto.png"},
+
+    {"id":4, "nombre":"BCAA", "precio":6500, "stock":10, "imagen": "images/bcaa_productos.jpg"}
+
+]
